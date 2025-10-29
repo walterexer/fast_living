@@ -29,7 +29,7 @@ Seize this opportunity to boost your income and take control of your financial f
         inline_keyboard: [
           [
             {
-              text: "🌐 Join Free VPNs/Proxies (Socks5 & Socks4)",
+              text: "🌐 Join Fast Living For Tips",
               url: channelUrl,
             },
           ],
